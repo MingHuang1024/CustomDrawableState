@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Weather">
+        <attr name="state_sunny" format="boolean"/>
+        <attr name="state_raining" format="boolean"/>
+        <attr name="state_cloudy" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="MessageState">
+        <attr name="state_message_unread" format="boolean"/>
+    </declare-styleable>
+
+</resources>

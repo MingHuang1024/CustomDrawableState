@@ -1,0 +1,1 @@
+android中自定义drawable的状态，在selector当根据自定义的状态来选择不同drawable

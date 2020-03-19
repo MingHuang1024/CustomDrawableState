@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/weather_bg"
+    android:duplicateParentState="true"
+    android:orientation="horizontal"
+    android:padding="50dp">
+
+    <ImageView
+        android:id="@+id/ivIcon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/weather_icon"
+        android:duplicateParentState="true" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dp"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:background="#ffffff"
+        android:duplicateParentState="true"
+        android:text="天气"
+        android:textColor="@color/text_color" />
+</LinearLayout>

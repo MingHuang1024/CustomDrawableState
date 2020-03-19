@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:example="http://schemas.android.com/apk/res-auto">
+
+    <item android:drawable="@drawable/sunny" example:state_sunny="true" />
+
+    <item android:drawable="@drawable/raining" example:state_raining="true" />
+
+    <item android:drawable="@drawable/cloudy" example:state_cloudy="true" />
+
+</selector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:example="http://schemas.android.com/apk/res-auto">
+    <item android:color="@color/sunnyColor" example:state_sunny="true" />
+
+    <item android:color="@color/rainingColor" example:state_raining="true" />
+
+    <item android:color="@color/cloudyColor" example:state_cloudy="true" />
+    <item android:color="#aaaaaa"  />
+</selector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="sunnyColor">#e00000</color>
+    <color name="cloudyColor">#a00a50</color>
+    <color name="rainingColor">#0000a0</color>
+
+    <color name="message_list_item_background_unread">#ff274172</color>
+
+</resources>
